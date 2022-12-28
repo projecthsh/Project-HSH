@@ -1,6 +1,6 @@
 [
 {
-  "packge": "eu.kanade.tachiyomi",
+  "package": "eu.kanade.tachiyomi",
   "name": "Tachiyomi",
   "logo": "https://source-projecthsh.bangumi.cyou/PageImage/ItemIcon/Tachiyomi.png",
   "link": "https://source-projecthsh.bangumi.cyou/Depository/AndroidApp/Tachiyomi%200.13.6.82.apk",
@@ -17,7 +17,7 @@
   ]
 },
 {
-  "packge": "flar2.devcheck",
+  "package": "flar2.devcheck",
   "name": "DevCheck",
   "logo": "https://source-projecthsh.bangumi.cyou/PageImage/ItemIcon/DevCheck.png",
   "link": "https://source-projecthsh.bangumi.cyou/Depository/AndroidApp/DevCheck_4.43.apk",
@@ -29,7 +29,7 @@
   ]
 },
 {
-  "packge": "github.znzsofficial.geekdroid",
+  "package": "github.znzsofficial.geekdroid",
   "name": "GeekDroid",
   "logo": "https://source-projecthsh.bangumi.cyou/PageImage/ItemIcon/GeekDroid.png",
   "link": "",
@@ -41,7 +41,7 @@
   ]
 },
 {
-  "packge": "nekox.messenger",
+  "package": "nekox.messenger",
   "name": "Nekogram X",
   "logo": "https://source-projecthsh.bangumi.cyou/PageImage/ItemIcon/Nekogram%20X.png",
   "link": "",
@@ -53,7 +53,7 @@
   ]
 },
 {
-  "packge": "com.github.kr328.clash",
+  "package": "com.github.kr328.clash",
   "name": "Clash for Android",
   "logo": "https://source-projecthsh.bangumi.cyou/PageImage/ItemIcon/Clash%20for%20Android.png",
   "link": "",
@@ -65,7 +65,7 @@
   ]
 },
 {
-  "packge": "air.com.adobe.pstouchphone",
+  "package": "air.com.adobe.pstouchphone",
   "name": "PS Touch",
   "logo": "https://source-projecthsh.bangumi.cyou/PageImage/ItemIcon/PhotoShop.png",
   "link": "https://source-projecthsh.bangumi.cyou/Depository/AndroidApp/PS%20CC_9.9.9_mod.apk",
