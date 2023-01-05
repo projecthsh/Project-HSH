@@ -20,10 +20,34 @@
   "package": "flar2.devcheck",
   "name": "DevCheck",
   "logo": "https://source-projecthsh.bangumi.cyou/PageImage/ItemIcon/DevCheck.png",
-  "link": "https://source-projecthsh.bangumi.cyou/Depository/AndroidApp/DevCheck_4.43.apk",
+  "link": "https://source-projecthsh.bangumi.cyou/Depository/AndroidApp/DevCheck-Pro-v4.46_build_446-Mod.apk",
   "screenshorts": [
   ],
   "desc": "Hardware and System Info",
+  "tags": [
+    "系统"
+  ]
+},
+{
+  "package": "ru.zdevs.zarchiver.pro",
+  "name": "ZArchiver Pro",
+  "logo": "https://source-projecthsh.bangumi.cyou/PageImage/ItemIcon/ZArchiver Pro.png",
+  "link": "https://source-projecthsh.bangumi.cyou/Depository/AndroidApp/ZArchiver_Pro-v1.0.6_build_10625-ar.apk",
+  "screenshorts": [
+  ],
+  "desc": "功能强大的解压缩软件",
+  "tags": [
+    "解压缩"
+  ]
+},
+{
+  "package": "com.finalwire.aida64",
+  "name": "AIDA64",
+  "logo": "https://source-projecthsh.bangumi.cyou/PageImage/ItemIcon/AIDA64.png",
+  "link": "https://source-projecthsh.bangumi.cyou/Depository/AndroidApp/AIDA64-Premium-v1.90_build_190-Mod.apk",
+  "screenshorts": [
+  ],
+  "desc": "很常见的硬件检测App，实际体验感觉不如DevCheck",
   "tags": [
     "系统"
   ]
@@ -35,7 +59,7 @@
   "link": "",
   "screenshorts": [
   ],
-  "desc": "正在开发的无服务器式应用商店",
+  "desc": "正在开发的应用商店模板",
   "tags": [
     "应用商店"
   ]
